@@ -1,5 +1,7 @@
 # Falcon.Chat Client
 
+Falcon Chat Server URL: https://github.com/justiceserv/FalconChatServer
+
 ### Developed by @SaintRobotal @justiceserv
 
 ## Prerequisites 
